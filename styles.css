@@ -121,3 +121,7 @@ p {
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
 }
+
+video {
+  content-align: center;
+}
